@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+.body {
+  background-color: #E4EEFD;
+}
+.card{
+  padding-top: 20px;
+  width: 220px;
+  height: 300px;
+  background-color: white;
+  text-align: center;
+  margin-left: 550px;
+  margin-top: 100px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 8px #a0a0a0;
+}
+.produto {
+  font-weight: 800;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+
+}
+.descricao{
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 6px;
+  color: rgb(197, 197, 197);
+}
+.preco{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  margin-top: 8px;
+  color: rgb(255, 123, 0);
+}
+.car {
+  width: 200px;
+}
+.button{
+  margin-top: 15px;
+  margin-left: 30px;
+  height: 40px;
+  width: 160px;
+  background-color: rgb(87, 31, 218);
+  border-radius: 15px;
+  text-align: center;
+}
+
+.text_button{
+  font-family: "Roboto", sans-serif;
+  padding-top: 12px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
